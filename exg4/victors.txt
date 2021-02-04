@@ -1,0 +1,7 @@
+['Kaya', 46]
+['Serg', 45]
+['Serg', 38]
+['Alyena', 33]
+['Player ¹ 03', 17]
+['Player ¹ 07', 2]
+['Player ¹ 02', 0]

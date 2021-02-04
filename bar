@@ -1,0 +1,35 @@
+[33mcommit bb81cb561eb6bf528d37952ac2043468783fdd61[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: SergioKoh <arobitg@gmail.com>
+Date:   Tue Jan 12 21:02:44 2021 +0300
+
+    movable objects
+
+[33mcommit ee7c492ccc1b1a78cc2929574c54ca3fc8ac7e4d[m
+Author: SergioKoh <arobitg@gmail.com>
+Date:   Sun Jan 10 11:16:28 2021 +0300
+
+    refactoring files
+
+[33mcommit c5e672feaa9279b919825da0939cd2e97d34a3e8[m
+Author: SergioKoh <arobitg@gmail.com>
+Date:   Fri Jan 8 20:28:54 2021 +0300
+
+    sea view
+
+[33mcommit f0e6ba64afa420dc7c6bb9290f6e111a430f58a9[m
+Author: SergioKoh <arobitg@gmail.com>
+Date:   Thu Jan 7 16:09:32 2021 +0300
+
+    Added angry emoticon
+
+[33mcommit 4ec8302d911343b8d2873b4f293187b69e45dcae[m
+Author: SergioKoh <arobitg@gmail.com>
+Date:   Tue Jan 5 23:42:30 2021 +0300
+
+    Added something to README
+
+[33mcommit 44b5871db730fa47614541c07c1c6838186530d9[m
+Author: SergioKoh <77022065+SergioKoh@users.noreply.github.com>
+Date:   Tue Jan 5 22:21:14 2021 +0300
+
+    Initial commit
