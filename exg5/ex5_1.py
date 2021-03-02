@@ -279,6 +279,9 @@ class Target:
 
     def new_targets(self):
         """Creating a new goal"""
+        for shell in shells:
+            window.after_cancel(shell.id_after)
+        shells.clear()
         for i in range(2):
             self.target = Target()
             targets.append(self.target)
